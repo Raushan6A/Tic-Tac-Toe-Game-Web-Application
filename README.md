@@ -18,7 +18,7 @@ CSS — for styling the game board, buttons, and layout.
 JavaScript — for game logic, event handling, and win/draw detection.
 
 # 📸 Screenshots
-Example:
+# Example:
 ![Screenshot 2025-04-19 093825](https://github.com/user-attachments/assets/f82ccb3c-5921-43f5-aeca-9dd42f9b491f)
 ![Screenshot 2025-04-19 093923](https://github.com/user-attachments/assets/23268fd2-87c7-4de6-94ae-0e3ad6d1755d)
 ![Screenshot 2025-04-19 093904](https://github.com/user-attachments/assets/3f81faf9-73ba-49b2-84b7-e4b2198a455d)
